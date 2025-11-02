@@ -5,7 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Repo Size](https://img.shields.io/github/repo-size/s4sahiko/Ai-Ticket-Classifier)
 ![Last Commit](https://img.shields.io/github/last-commit/s4sahiko/Ai-Ticket-Classifier)
-![Dashboard Preview](assests/dashboard.png)
+![WhatsApp Image 2025-11-02 at 7 09 26 AM](https://github.com/user-attachments/assets/487c21a7-3653-48a5-8653-e7c477741ebd)
+
 
 
 ---
@@ -27,11 +28,15 @@ It helps support teams reduce manual triage, improve response times, and optimiz
 # What's New?
 
 1. ## Real Time Solution Recommendation
-     ![Solution Preview](assests/recsol.png)
+    ![WhatsApp Image 2025-11-02 at 7 09 52 AM](https://github.com/user-attachments/assets/83fdf413-61e0-420c-b874-ac635ecff08d)
+
 2. ## Filter Tickets bases of Severity
-   ![Filter Preview](assests/priority.png)
+ ![WhatsApp Image 2025-11-02 at 7 10 13 AM](https://github.com/user-attachments/assets/2ba1ccad-be89-46b3-8784-4b6aac073e14)
+
 3. ## Contact Gap Analysis Improved
-    ![Filter Preview](assests/content.png)
+![WhatsApp Image 2025-11-02 at 7 10 34 AM](https://github.com/user-attachments/assets/35a2bcb4-a6b1-4548-96c9-52c81197a13c)
+
+    
    
 ---
 
